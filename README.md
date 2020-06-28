@@ -1,4 +1,4 @@
-Author: F1
+Author: Alone
 
 Community's servers: Extrak Gaming and ALMADA RP 
 
@@ -16,4 +16,4 @@ start load
 
 loading screen by:
 
-NoName†#1004
+Alone†#8106
