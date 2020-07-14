@@ -1,6 +1,6 @@
 Author: Alone
 
-Community's servers: Extrak Gaming and ALMADA RP 
+Community's servers: DesertGamerscm.com and ALMADA RP Portugal Fivem servers
 
 
 
@@ -16,4 +16,4 @@ start load
 
 loading screen by:
 
-Alone†#8106
+Alone†#1004
