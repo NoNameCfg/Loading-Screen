@@ -1,4 +1,4 @@
-Author: Alone
+Author: NoName
 
 Community's servers: DesertGamerscm.com and ALMADA RP Portugal Fivem servers
 
